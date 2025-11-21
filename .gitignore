@@ -1,0 +1,29 @@
+# Verilator build artifacts
+obj_dir/
+*.vcd
+*.fst
+
+# Temporary files
+*.swp
+*.swo
+*~
+.*.swp
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+Vtb_top
